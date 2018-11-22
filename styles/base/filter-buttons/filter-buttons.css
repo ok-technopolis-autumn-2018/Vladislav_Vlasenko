@@ -1,0 +1,14 @@
+.filters {
+  text-align: center;
+  }
+
+  .filters-item {
+    border: none;
+    background: none;
+    color: #888888;
+    margin-left: 1px;
+    margin-right: 1px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    cursor: pointer;
+    }
